@@ -1,4 +1,3 @@
-import './globals.css'
 
 export const metadata = {
   title: 'Test For Different Title',
